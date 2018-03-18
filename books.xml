@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<books>
+  <book>
+    <nim>15.01.53.0114</nim>
+    <nama>Septi Dwi Cahyanti</nama>
+    <alamat>Tambak Aji rt 10 rw 12 Ngalian Semarang</alamat>
+    <Progdi>Teknik Informatika</Progdi>
+  </book>
+  <book>
+    <nim>15.01.53.0084</nim>
+    <nama>Muhammad alfaiz</nama>
+    <alamat> Dk jatibarang rt 01 rw 01 Mijen Semarang</alamat>
+    <Progdi>Teknik Informatika</Progdi>
+  </book>
+</books>
